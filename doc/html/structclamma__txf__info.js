@@ -1,0 +1,25 @@
+var structclamma__txf__info =
+[
+    [ "cache_limit", "structclamma__txf__info.html#a04c69eae2fa2a7e44f3ddc22ee4cb732", null ],
+    [ "checkpoint_path", "structclamma__txf__info.html#a24d86920bcb718a2c467d4c0043a7666", null ],
+    [ "clamma_api_version", "structclamma__txf__info.html#af9df62291b1ba75a1f532395387246e1", null ],
+    [ "desc", "structclamma__txf__info.html#ae88819b6a769ddec99cd3ea36d47e9fb", null ],
+    [ "desc_max", "structclamma__txf__info.html#a64ca52c8ae2912a5bc29db98176e6818", null ],
+    [ "issue_cb", "structclamma__txf__info.html#a545cc256b082d1021592259fd865690f", null ],
+    [ "limit", "structclamma__txf__info.html#ae03ae46a2279ad4f2c43b59ad89145b5", null ],
+    [ "max_sessions", "structclamma__txf__info.html#a1b641c86786718eb3dba7be0a89e4dae", null ],
+    [ "model_access", "structclamma__txf__info.html#a83709a8d622cc67d922678faed89cf30", null ],
+    [ "model_base", "structclamma__txf__info.html#a4c90dbb3f682654f885a931d18af3d5a", null ],
+    [ "model_size", "structclamma__txf__info.html#a379f6f0ecbf3b06abccd2cb73a8efa49", null ],
+    [ "model_type", "structclamma__txf__info.html#a12d9e0762c7128b9b60cb686c5591753", null ],
+    [ "name", "structclamma__txf__info.html#a94ba071198afbb2eb2a7b4e65d65c743", null ],
+    [ "null_on_destroy", "structclamma__txf__info.html#af0025399e4667592aa35ba544cba7dad", null ],
+    [ "opaque_user_pointer", "structclamma__txf__info.html#ad6f98304b78b8239484f53cfeeae7506", null ],
+    [ "prompt", "structclamma__txf__info.html#ad178627d90555ab2466c1d273a3341fc", null ],
+    [ "rng_seed", "structclamma__txf__info.html#a28051dcec0998d71fec99212a559cd27", null ],
+    [ "system", "structclamma__txf__info.html#a299b6c013a4fc409ffedd18eed313f7a", null ],
+    [ "temperature", "structclamma__txf__info.html#a4f3201397954cb80ac65ba745d5043e3", null ],
+    [ "threads", "structclamma__txf__info.html#aa6c2adec88698d26d6bfe940bb15e914", null ],
+    [ "tokenizer_path", "structclamma__txf__info.html#a89c09b7eb4b2a421ef353057930508a6", null ],
+    [ "topp", "structclamma__txf__info.html#a5ba7e3e0a6583ad57c01395e7ae613db", null ]
+];

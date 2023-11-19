@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'OpenSans';
+  src: url('OpenSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('/iosevka-term-ss01-regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'OpenSans', Fallback, sans-serif;
+  font-size: 16pt;
+}
+
+.title { font-size: 16pt; font-color: #606060; }
+.chat { font-size: 12pt; }
+.query { font-weight: 600; }
